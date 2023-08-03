@@ -26,15 +26,23 @@ Total_Price - Total price of all pizza ordered with that Name
 Pizza_size - What's the size of pizza (Small, Medium, Large etc.)
 Pizza_category - The category pizza belong to. (Classic, Veggies, Supreme)
 
-## KPI Analysis
+## Project Description:
 
-**Total Revenue**: Overall revenue generated.
+In this project, I looked deeply into the data related to pizza sales for a business. The main goal was to understand how well the business was doing by using SQL, a tool for working with data. I wanted to find out important things like how much pizza they were selling, what customers liked, and if there were any trends in the sales data. The project encompassed the following steps:
 
-**Average Order Value**: Calculated the average amount of each order.
+1. **Data Collection and Preparation:**
+   I collected the relevant dataset containing information on pizza sales. Before diving into analysis, I ensured the data was cleaned and organized appropriately, addressing any inconsistencies or missing values.
 
-**Total Pizzas Sold**: Total number of pizzas sold.
+2. **SQL Analysis:**
+   Utilizing SQL queries, I conducted an in-depth analysis of the dataset. I formulated queries to retrieve specific information such as sales figures, order quantities, customer preferences, and more. By aggregating and manipulating the data using SQL functions, I extracted meaningful insights.
 
-**Total Orders**: Total order placed.
+3. **Key Performance Indicator (KPI) Assessment:**
+   I identified and calculated key performance indicators that were pertinent to the pizza business, including metrics like Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas per Order. These KPIs provided a comprehensive understanding of the business's performance.
 
-**Average Pizzas per Order**: Average number of pizza ordered per order.
+4. **Data Visualization:**
+   To enhance the comprehensibility of the findings, I employed data visualization techniques. Using tool Power BI, I depicted trends, comparisons, and distributions within the dataset. This step facilitated the identification of visual patterns that might not be immediately evident from raw data.
 
+5. **Trend and Pattern Identification:**
+   By closely examining the visual representations, I discerned trends, patterns, and anomalies within the data. I compared sales performance across different time periods, customer segments, and pizza varieties. This facilitated the identification of growth areas and potential areas for improvement.
+
+   
