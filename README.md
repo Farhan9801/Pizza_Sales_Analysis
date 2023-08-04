@@ -30,19 +30,19 @@ The data has 48620 rows of 12 variables.
 
 **Variable - Details**
 
-pizza_id: A unique identifier assigned to each pizza entry in the dataset.
-order_id: An exclusive identifier for individual pizza orders.
-pizza_name_id: A distinct identifier corresponding to each specific pizza name.
-quantity: The count of pizzas included in each particular order.
-order_date: The date on which the pizza order was made.
-order_time: The specific time when the pizza order was placed.
-unit_price: The cost of a single unit of pizza.
-total_price: The overall cost of the entire pizza order, computed by multiplying the unit price with the quantity.
-pizza_size: The dimensions or size classification of the pizza, typically denoted as S, M, L, XL, or XXL.
-pizza_category: The grouping or classification of the pizza, indicating its style or type, such as Classic, Veggie, Supreme, or Chicken.
-pizza_ingredients: The enumeration of ingredients employed in preparing the pizza.
-pizza_name: The distinctive label assigned to each specific kind of pizza.
-
+pizza_id: A unique identifier assigned to each pizza entry in the dataset.     
+order_id: An exclusive identifier for individual pizza orders.         
+pizza_name_id: A distinct identifier corresponding to each specific pizza name.       
+quantity: The count of pizzas included in each particular order.         
+order_date: The date on which the pizza order was made.               
+order_time: The specific time when the pizza order was placed.          
+unit_price: The cost of a single unit of pizza.                               
+total_price: The overall cost of the entire pizza order, computed by multiplying the unit price with the quantity.                     
+pizza_size: The dimensions or size classification of the pizza, typically denoted as S, M, L, XL, or XXL.               
+pizza_category: The grouping or classification of the pizza, indicating its style or type, such as Classic, Veggie, Supreme, or Chicken.                   
+pizza_ingredients: The enumeration of ingredients employed in preparing the pizza.                  
+pizza_name: The distinctive label assigned to each specific kind of pizza.                         
+ 
 
 ## Dashboard
    ![Screenshot (29)](https://github.com/Farhan9801/Pizza_Sales_Analysis_Using_SQL_and_PowerBI/assets/121276934/f349d99d-7d33-49bf-a958-ab488f89bee1)
