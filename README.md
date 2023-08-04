@@ -45,4 +45,5 @@ In this project, I looked deeply into the data related to pizza sales for a busi
 5. **Trend and Pattern Identification:**
    By closely examining the visual representations, I discerned trends, patterns, and anomalies within the data. I compared sales performance across different time periods, customer segments, and pizza varieties. This facilitated the identification of growth areas and potential areas for improvement.
 
+ dddwadwdwdw
    
