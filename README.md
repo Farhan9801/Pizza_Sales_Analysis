@@ -15,7 +15,7 @@ The data has 48620 rows of 12 variables.
 
 **Variable - Details**
 
-Pizza_id - Unique Pizza ID (Primary Key)
+Pizza_id - Unique Pizza ID (Primary Key)         
 Order_id - Can have dublicate
 Pizza_name - Name of the pizza
 Quantity - Pizza order of that pizza Name
