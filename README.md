@@ -1,30 +1,8 @@
 
 # Pizza Sales Data Analysis
 
-
-
 This repository hosts a data analysis project that centers around the examination of pizza sales utilizing Power BI and SQL. The primary objective of this project is to extract valuable insights from the pizza sales data, pinpoint emerging trends, and formulate recommendations grounded in data to enhance overall business performance.
 
-
-
-
-
-## Dataset Details
-
-The data has 48620 rows of 12 variables.
-
-**Variable - Details**
-
-Pizza_id - Unique Pizza ID (Primary Key)         
-Order_id - Can have dublicate
-Pizza_name - Name of the pizza
-Quantity - Pizza order of that pizza Name
-Order_date - Date of order
-Order_time - Time of order
-Unit_price - Price of that each pizza with that Pizza_name
-Total_Price - Total price of all pizza ordered with that Name
-Pizza_size - What's the size of pizza (Small, Medium, Large etc.)
-Pizza_category - The category pizza belong to. (Classic, Veggies, Supreme)
 
 ## Project Description:
 
@@ -44,6 +22,27 @@ In this project, I looked deeply into the data related to pizza sales for a busi
 
 5. **Trend and Pattern Identification:**
    By closely examining the visual representations, I discerned trends, patterns, and anomalies within the data. I compared sales performance across different time periods, customer segments, and pizza varieties. This facilitated the identification of growth areas and potential areas for improvement.
+
+
+## Dataset Details
+
+The data has 48620 rows of 12 variables.
+
+**Variable - Details**
+
+pizza_id: A unique identifier assigned to each pizza entry in the dataset.
+order_id: An exclusive identifier for individual pizza orders.
+pizza_name_id: A distinct identifier corresponding to each specific pizza name.
+quantity: The count of pizzas included in each particular order.
+order_date: The date on which the pizza order was made.
+order_time: The specific time when the pizza order was placed.
+unit_price: The cost of a single unit of pizza.
+total_price: The overall cost of the entire pizza order, computed by multiplying the unit price with the quantity.
+pizza_size: The dimensions or size classification of the pizza, typically denoted as S, M, L, XL, or XXL.
+pizza_category: The grouping or classification of the pizza, indicating its style or type, such as Classic, Veggie, Supreme, or Chicken.
+pizza_ingredients: The enumeration of ingredients employed in preparing the pizza.
+pizza_name: The distinctive label assigned to each specific kind of pizza.
+
 
 ## Dashboard
    ![Screenshot (29)](https://github.com/Farhan9801/Pizza_Sales_Analysis_Using_SQL_and_PowerBI/assets/121276934/f349d99d-7d33-49bf-a958-ab488f89bee1)
