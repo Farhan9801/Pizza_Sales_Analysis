@@ -45,5 +45,7 @@ In this project, I looked deeply into the data related to pizza sales for a busi
 5. **Trend and Pattern Identification:**
    By closely examining the visual representations, I discerned trends, patterns, and anomalies within the data. I compared sales performance across different time periods, customer segments, and pizza varieties. This facilitated the identification of growth areas and potential areas for improvement.
 
- dddwadwdwdw
+## Dashboard
+   ![Screenshot (29)](https://github.com/Farhan9801/Pizza_Sales_Analysis_Using_SQL_and_PowerBI/assets/121276934/f349d99d-7d33-49bf-a958-ab488f89bee1)
    
+![Screenshot (30)](https://github.com/Farhan9801/Pizza_Sales_Analysis_Using_SQL_and_PowerBI/assets/121276934/80cd06c7-0ac0-43b9-b780-56157dd6f4e5)
