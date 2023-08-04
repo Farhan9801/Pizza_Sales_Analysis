@@ -26,7 +26,7 @@ In this project, I looked deeply into the data related to pizza sales for a busi
 
 ## Dataset Details
 
-The data has 48620 rows of 12 variables.
+The data has 48620 rows of 12 feature.
 
 **Variable - Details**
 
